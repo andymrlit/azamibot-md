@@ -19,6 +19,7 @@ wa.me/50941411147
 ║ • siw bezwen m moutrew koman 
 ║ • pou w metel wap bezwen 80 dola ht
 ╚══╣ 
+
 - Peman via *OVO / mon cash / GoPay*
   *( pa gen lòt opsyon )*
   nan nimewo 50947477839
