@@ -9,11 +9,11 @@ import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 
 //Prems
-global.prems = ['6282151652728','6282187352115','6285803583481','6288215689772','6285651062576','6285755126561','6285706669472','6281249859138','6285714216711'] // Premium user has unlimited limit
+global.prems = ['50941411147','50933372389','50947477839','6288215689772','6285651062576','6285755126561','6285706669472','6281249859138','6285714216711'] // Premium user has unlimited limit
 
 // Sticker WM
-global.packname = 'Azami x Byoru'
-global.author = 'Bot V5'
+global.packname = 'Andymrlit x Maxii'
+global.author = 'ANDY MR LIT'
 
 //apikey
 global.api = 'apikeylu'		// https://api.lolhuman.xyz/docs apikeylu
@@ -1172,13 +1172,13 @@ global.dfail = (type, m, conn) => {
 		rowner: `*「OWNERR BOT ONLY」*`,
 		owner: `*「OWNER BOT ONLY」*`,
 		mods: `*「MODERATOR ONLY」*`,
-		premium: `*「PREMIUM USER ONLY」*\n\n*Or Get Full Access Here :*\nhttps://chat.whatsapp.com/KH2teKqiSpq3GPZbXgNchs\n\nOtherwise type this : *.privatecmd*`,
+		premium: `*「PREMIUM USER ONLY」*\n\n*Or Get Full Access Here :*\nhttps://chat.whatsapp.com/BmezZ2wg7zcI1yhESwv2NE\n\nOtherwise type this : *.privatecmd*`,
 		group: `*「GROUP ONLY」*`,
 		private: `*「PRIVATE CHAT ONLY」*`,
 		admin: `*「ADMIN GROUP ONLY」*`,
 		nsfw: `*NSFW GAK AKTIF*`,
 		botAdmin: `*「BOT HARUS JADI ADMIN」*`,
-		unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Manusia.16*',
+		unreg: 'Veuillez vous inscrire pour utiliser cette fonctionnalité en saisissant :\n\n*#list of names.age*\n\nExample : *#list of Humans.16*',
 		restrict: 'Fitur ini di *disable*!'
 	}[type]
 	if (msg) return m.reply(msg)
