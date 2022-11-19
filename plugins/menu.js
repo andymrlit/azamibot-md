@@ -50,7 +50,7 @@ const defaultMenu = {
 #OS Arch : %osarch | %oscore Core | %osspeed#
 #OS Uptime : %osuptime#
 
-_Claim *.daily* atau mainkan game di *.funmenu* untuk mendapatkan exp / money_
+_Claim *.daily* or play games in *.funmenu* to get exp / money_
 `.trimStart(),
 	header: '╭─「 %category 」',
 	body: '│ • %cmd %islimit %isPremium',
