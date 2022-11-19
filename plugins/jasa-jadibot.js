@@ -20,12 +20,6 @@ wa.me/509414111147
 ║ • pou w metel wap bezwen 80 dola ht
 ╚══╣ 
 
-╔╣ *JADI BOT*
-║ • Jadi Bot Azami Always ON
-║ • Custom Namabot, Owner, rules, dll.
-║ • Bisa Req Tampilan atau Fitur
-╚══╣ *Harga :* Rp.25.000 / bulan
-
 - Peman via *OVO / mon cash / GoPay*
   *( pa gen lòt opsyon )*
   nan nimewo 50947477839
