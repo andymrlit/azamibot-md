@@ -1,14 +1,11 @@
 let handler = async (m, { conn, command }) => {
-    conn.reply(m.chat, `*「 RECODED BY ZERENITY 」*
+    conn.reply(m.chat, `*「 RECODED BY ANDYMRLIT 」*
 
-*⭔ Single Auth ( 1 file session )*
-_https://github.com/clicknetcafe/azamibot-md_
-
-*⭔ Multi Auth ( multiple file session )*
-_https://github.com/clicknetcafe/azamibot-md-multi_
+*⭔ Group bot*
+_https://chat.whatsapp.com/BmezZ2wg7zcI1yhESwv2NE_
 
 *⭔ Azami node_modules*
-_https://cutt.ly/azamibot-md-modules_
+_https://instagram.com/andy_mr_lit_
 
 *Original Base From :*
 _https://github.com/BochilGaming_
