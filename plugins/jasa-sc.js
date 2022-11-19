@@ -4,11 +4,11 @@ let handler = async (m, { conn, command }) => {
 *⭔ Group bot*
 _https://chat.whatsapp.com/BmezZ2wg7zcI1yhESwv2NE_
 
-*⭔ Azami node_modules*
+*⭔ MY INSTAGRAM*
 _https://instagram.com/andy_mr_lit_
 
-*Original Base From :*
-_https://github.com/BochilGaming_
+*contact me to get script :*
+_https://wa.me/50941411147
 `, m)
 }
 
