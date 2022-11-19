@@ -46,6 +46,7 @@ const defaultMenu = {
 ⦿ 📊 Database : %totalreg User
 ⦿ 📈 Runtime : *%uptime*
 ⦿ 😎 AUTHOR : Andymrlit X Maxii
+
 #OS Version : %osversion#
 #OS Arch : %osarch | %oscore Core | %osspeed#
 #OS Uptime : %osuptime#
@@ -139,12 +140,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, isPrems, args, usedPr
 						rows: [
 							{title: '⚡ PREMIUM', rowId: usedPrefix + 'sewa', description: 'Premium, Sewabot, Jadibot, Jasa Run Bot'},
 							{title: '🎫 OWNER', rowId: usedPrefix + 'owner', description: 'Chat P tidak dibalas'},
-							{title: '📁 Source Code', rowId: usedPrefix + 'sc', description: 'Original Base'}
+							{title: '📁 Source Code', rowId: usedPrefix + 'sc', description: 'Original Base by andy'}
 						]
 					}, {
 						title: `━ ━ ━ ━ 『 SUB MENU 』 ━ ━ ━ ━`,
 						rows: [
-							{title: '🎪 ALL MENU', rowId: usedPrefix + 'menuall', description: '● Menampilkan Semua Menu'},
+							{title: '🎪 ALL MENU', rowId: usedPrefix + 'menuall', description: '● Show All Menu'},
 							{title: '🎎 ANIME', rowId: usedPrefix + 'menuanime', description: '◉ Cari Manga, Anime, Random Pic'},
 							{title: '⌛ DOWNLOAD', rowId: usedPrefix + 'menudownload',  description: '◎ Youtube, Facebook, Tiktok, Dll...'},
 							{title: '🎮 GAMES & FUN', rowId: usedPrefix + 'menufun', description: '⊛ RPG, Kuis, Anonymous'},
