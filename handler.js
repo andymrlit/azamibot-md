@@ -721,7 +721,7 @@ export async function handler(chatUpdate) {
 					sPromote: '',
 					sDemote: '',
 					delete: true,
-					antiLink: false,
+					antiLink: true,
 					antivirus: false,
 					nsfw: false,
 					pdf: false,
@@ -738,12 +738,12 @@ export async function handler(chatUpdate) {
 			if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
 			if (settings) {
 				if (!('self' in settings)) settings.self = false
-				if (!('autoread' in settings)) settings.autoread = false
+				if (!('autoread' in settings)) settings.autoread = true
 				if (!('restrict' in settings)) settings.restrict = false
 				if (!Array.isArray(settings.menfess)) settings.menfess = []
 			} else global.db.data.settings[this.user.jid] = {
 				self: false,
-				autoread: false,
+				autoread: true,
 				restrict: false,
 				menfess: []
 			}
