@@ -45,7 +45,7 @@ const defaultMenu = {
 
 ⦿ 📊 Database : %totalreg User
 ⦿ 📈 Runtime : *%uptime*
-
+⦿ 😎 AUTHOR : Andymrlit X Maxii
 #OS Version : %osversion#
 #OS Arch : %osarch | %oscore Core | %osspeed#
 #OS Uptime : %osuptime#
