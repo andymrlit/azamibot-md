@@ -743,7 +743,7 @@ export async function handler(chatUpdate) {
 				if (!Array.isArray(settings.menfess)) settings.menfess = []
 			} else global.db.data.settings[this.user.jid] = {
 				self: false,
-				autoread: true,
+				autoread: false,
 				restrict: false,
 				menfess: []
 			}
