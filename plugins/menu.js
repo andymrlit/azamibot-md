@@ -45,13 +45,12 @@ const defaultMenu = {
 
 ⦿ 📊 Database : %totalreg User
 ⦿ 📈 Runtime : *%uptime*
-⦿ 😎 AUTHOR : Andymrlit X Maxii
 
 #OS Version : %osversion#
 #OS Arch : %osarch | %oscore Core | %osspeed#
 #OS Uptime : %osuptime#
 
-_Claim *.daily* or play games in *.funmenu* to get exp / money_
+_bot created by andymrlit and maxi Don't spam please_
 `.trimStart(),
 	header: '╭─「 %category 」',
 	body: '│ • %cmd %islimit %isPremium',
@@ -170,7 +169,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, isPrems, args, usedPr
 					text: text.replaceAll('#','```').trim(),
 					footer: packname + ' - ' + author,
 					//title: `⎔───「 ${packname} 」───⎔`,
-					buttonText: `SUB MENU 🎫`,
+					buttonText: `Touch me 😎`,
 					sections
 				}
 				await conn.sendMessage(m.chat, listMessage, {quoted: ftrol})
